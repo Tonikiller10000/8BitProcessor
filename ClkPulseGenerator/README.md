@@ -7,8 +7,8 @@ This board generates 0-5V square wave CLK pulses for my 8Bit processor/computer 
 
 <table>
   <tr>
-    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/p1.jpg/></td>
     <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/p2.jpg/></td>
+    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/p1.jpg/></td>
   </tr>
  </table>
 
@@ -24,7 +24,7 @@ This board generates 0-5V square wave CLK pulses for my 8Bit processor/computer 
 
 <table>
   <tr>
-    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/s1.png height=300/></td>
+    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/s1.png/></td>
     <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/s2.png/></td>
     <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/s3.png/></td>
     <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/s4.png/></td>
@@ -33,11 +33,12 @@ This board generates 0-5V square wave CLK pulses for my 8Bit processor/computer 
 
 <table>
   <tr>
-    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/s.png height=400/></td>
+    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/s.png /></td>
     <td>
         This is the Ben Eater schematic made by me.
-        https://youtu.be/SmQ5K7UQPMM?si=6SvCCjpXzhz8pTbt
-    </td>
+        Link to Ben Eater breadboard CKL pulse generator:
+         https://youtu.be/SmQ5K7UQPMM?si=6SvCCjpXzhz8pTbt
+    </td wdiht=60%>
   </tr>
  </table>
 
