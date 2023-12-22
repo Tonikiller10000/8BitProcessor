@@ -38,8 +38,7 @@ This board generates 0-5V square wave CLK pulses for my 8Bit processor/computer 
         This is the Ben Eater schematic made by me.
          Link to Ben Eater breadboard CKL pulse generator:
          https://youtu.be/SmQ5K7UQPMM?si=6SvCCjpXzhz8pTbt
-        <img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/d1.png/>
-    </td wdiht=40%>
+    </td widht=40%>
   </tr>
  </table>
 
