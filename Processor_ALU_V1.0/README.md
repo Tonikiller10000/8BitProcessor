@@ -29,31 +29,31 @@ After the operation mode is set from the SUB pin and the flags are saved in the 
 
 
 
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(1).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(1).png/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(2).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(2).png/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(3).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(3).png/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(4).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(4).png/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(5).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(5).png/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(6).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(6).png/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(7).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(8).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(9).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(10).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(11).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(12).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(13).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(14).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(15).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(16).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(17).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(18).jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture(19).jpg/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(1).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(1).png"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(2).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(2).png"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(3).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(3).png"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(4).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(4).png"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(5).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(5).png"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(6).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(6).png"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(7).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(8).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(9).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(10).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(11).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(12).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(13).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(14).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(15).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(16).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(17).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(18).jpg"/>
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ALU-Pictures/ALU_Picture%20(19).jpg"/>
 
 
 
