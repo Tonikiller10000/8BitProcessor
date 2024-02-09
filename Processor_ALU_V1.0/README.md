@@ -14,7 +14,7 @@ After the operation mode is set from the SUB pin and the flags are saved in the 
 > [!TIP] 
 All the pins should have an pull-down resistors to assure the default mode opperation.
 
-> [!IMPORTANT]
+> [!NOTE]
 > Key information users need to know to achieve their goal.
 
 
@@ -35,12 +35,17 @@ All the pins should have an pull-down resistors to assure the default mode opper
 <img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(6).png"/>
 <img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(11).jpg"/>
 <img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(12).jpg"/>
-<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(15).jpg"/>
-<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(17).jpg"/>
 <img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(18).jpg"/>
 
 
-
+<table>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(17).jpg"/></td>
+    <td>
+        By not using resistors for the led`s thinking that the 74LSx series IC`s has integrated resistors, the led`s are to brigth, and their intensity changes depending on how many led`s are ligthned up.
+    </td widht=40%>
+  </tr>
+ </table>
 
 
 
