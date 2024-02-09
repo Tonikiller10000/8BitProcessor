@@ -8,10 +8,12 @@
 This board is used for addition and substraction. It is formed of 2 registers A and B, the actual ALU (Arithmetic and Logic Unit), 
 and the Flag Register witch has a Carry flag, a Zero flag, a Sign flag and 5 other empty, free to use for other stuff, flags. 
     </td>
-    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(6).png"/></td widht=40%>
+    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(6).png"/></td>
   </tr>
  </table>
 <img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(5).png"/>
+
+
 
 ### How to use:
 1. Put values in the A and B register by putting a value on the bus and setting the A_IN or B_IN pin HIGH.
@@ -31,6 +33,8 @@ The ALU result can be put back in the A or B registers and be used for other ope
     <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(12).jpg"/></td>
   </tr>
  </table>
+
+
 
 
 
