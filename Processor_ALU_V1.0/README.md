@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>
-    
+
 ### Description:
 This board is used for addition and substraction. It is formed of 2 registers A and B, the actual ALU (Arithmetic and Logic Unit), and the Flag Register witch has a Carry flag, a Zero flag, a Sign flag and 5 other empty, free to use for other stuff, flags. 
-    </td>
-    <td> <img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(6).png"/> </td widht=40%>
+    </td widht=40%>
+    <td> <img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(6).png"/> </td>
   </tr>
  </table>
 
