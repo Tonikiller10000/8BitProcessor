@@ -11,8 +11,6 @@ and the Flag Register witch has a Carry flag, a Zero flag, a Sign flag and 5 oth
     <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(6).png"/></td widht=40%>
   </tr>
  </table>
-
-Schematic:
 <img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(5).png"/>
 
 ### How to use:
@@ -26,7 +24,6 @@ When the SUB pin is pulled HIGH, the ALU returns the difference between A regist
 5. The result of the ALU can be outputed in the bus by putting the ALU_OUT pin HIGH.
 The ALU result can be put back in the A or B registers and be used for other operations.
 
-Board:
 <table>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(18).jpg"/></td>
@@ -40,6 +37,8 @@ Board:
 ### Mentions:
 - All the pins should have an pull-down resistors to assure the default mode opperation
 - By not using resistors for the led\`s thinking that the 74LSx series IC\`s has integrated resistors, the led\`s are to brigth, and their intensity changes depending on how many led\`s are ligthned up. ( https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(17).jpg )
+
+
 
 
 Datasheets:
