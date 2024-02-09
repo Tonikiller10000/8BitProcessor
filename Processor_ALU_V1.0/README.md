@@ -4,16 +4,13 @@
 
 <table>
   <tr>
-  
 ### Description:
 - This board is used for addition and substraction. It is formed of 2 registers A and B, the actual ALU (Arithmetic and Logic Unit), and the Flag Register. 
-
 ### Features:
 - Fast addition and substraction opperations;
 - A & B registers free to use for other operations;
 - Flag register with Carry flag, Zero flag, Sign flag and 5 other empty, free to use flags;
 - Frendly user interface and good educational visual interface.
-
     <td></td>
     <td> <img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(6).png"/> </td>
   </tr>
@@ -32,16 +29,21 @@
 > All the pins should have an pull-down resistors to assure the default mode opperation.
 
 
-The Board:
+
 <table>
+  <tr>Board:</tr>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(18).jpg"/></td>
     <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(11).jpg"/></td>
     <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(12).jpg"/></td>
   </tr>
+  <tr>Schematic:</tr>
+  <tr><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(5).png"/></tr>
+
+
  </table>
-Schematic:
-<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(5).png"/>
+
+
 
 
 
