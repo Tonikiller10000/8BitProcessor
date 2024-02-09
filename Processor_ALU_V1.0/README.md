@@ -1,7 +1,12 @@
 # 8Bit Computer/ Processor_ALU
 
+
+
+<table>
+  <tr>
+  
 ### Description:
-This board is used for addition and substraction. It is formed of 2 registers A and B, the actual ALU (Arithmetic and Logic Unit), and the Flag Register. 
+- This board is used for addition and substraction. It is formed of 2 registers A and B, the actual ALU (Arithmetic and Logic Unit), and the Flag Register. 
 
 ### Features:
 - Fast addition and substraction opperations;
@@ -9,17 +14,34 @@ This board is used for addition and substraction. It is formed of 2 registers A 
 - Flag register with Carry flag, Zero flag, Sign flag and 5 other empty, free to use flags;
 - Frendly user interface and good educational visual interface.
 
-
-> [!NOTE] All the pins should have an pull-down resistors to assure the default mode opperation.
-
-
-<table>
-  <tr>
-    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(11).jpg"/></td>
-    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(12).jpg"/></td>
-    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(18).jpg"/></td>
+    <td></td>
+    <td> <img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(6).png"/> </td>
   </tr>
  </table>
+
+
+
+
+
+
+
+
+
+
+> [!NOTE] 
+> All the pins should have an pull-down resistors to assure the default mode opperation.
+
+
+The Board:
+<table>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(18).jpg"/></td>
+    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(11).jpg"/></td>
+    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(12).jpg"/></td>
+  </tr>
+ </table>
+Schematic:
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(5).png"/>
 
 
 
@@ -30,15 +52,6 @@ By setting the SUB pin HIGH, the ALU returns the difference between A register v
 !!! carry flag ....
 By setting the F_IN pin HIGH, the flag values can be saved in the Flag register. This action sets all the flag values with the corresponding value at that time.  
 After the operation mode is set from the SUB pin and the flags are saved in the Flag register (optional), the result of the operation can be outputed in the bus by putting the ALU_OUT pin HIGH. From the bus, the result can be put back in the A or B registers without crating a loop, the registers beeing clk edge enable.
-
-
-
-
-
-
-
-<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(5).png"/>
-<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(6).png"/>
 
 
 
