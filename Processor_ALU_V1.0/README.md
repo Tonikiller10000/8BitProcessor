@@ -41,7 +41,7 @@ The ALU result can be put back in the A or B registers and be used for other ope
 ### Mentions:
 - All the pins should have an pull-down resistors to assure the default mode opperation
 - By not using resistors for the led\`s thinking that the 74LSx series IC\`s has integrated resistors, the led\`s are to brigth, and their intensity changes depending on how many led\`s are ligthned up. ( https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(17).jpg )
-
+- This is the first version, Future versions will come in the next version of the processor. ( https://github.com/Tonikiller10000/8BitProcessor/tree/main )
 
 
 

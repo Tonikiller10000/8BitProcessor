@@ -1,51 +1,38 @@
 # 8Bit Computer/ Display Register
 
 ### Description:
-This board generates 0-5V square wave CLK pulses for my 8Bit processor/computer and has an tactile switch to change between it\`s 2 states:
-- astable mode: generate CLK pulses at variable speed by the potentiometer value from one pulse at every 1,2 seconds to an pulse at each every few milisecondes (The potentiometer and capacitor values should be changed)
-- monostable mode: send debounced CLK signals at the push of a button
+This board is an 8 bit register witch can display it\`s value on an 7 segment display using the multiplexing process. It has 8 led\`s to display it\s contents in binnary, an 2 position switch to help you select between 2 programable modes (HEX, DEC, SGN_DEC, ...) and a potentiometer to increase/decrease the multiplexing speed to help understanding of the multiplexing principle. 
 
-<table>
-  <tr>
-    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/p2.jpg/></td>
-    <td>
-        ### PINS:
-        - VCC - 5V input
-        - GND - 0V input
-        - GND - 0V input (optional)
-        - HLT - input, connect to 5V to stop sending CLK pulses, and to 0V for normal operration
-        - CLK - CLK pulse generator output
-        - CLK - inverted CLK pulse generator output   //clk bar</td>
-  </tr>
- </table>
+
+
+
+
+
+<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/pic1.jpg/>
+<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/pic4.png/>
+<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/sch.png/>
+
+
+
 
 
 
 
 <table>
   <tr>
-    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/s1.png/></td>
-    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/s2.png/></td>
-    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/s3.png/></td>
-    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/s4.png/></td>
+    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/pr3.png/></td>
+    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/pr1.png/></td>
+    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/pr2.png/></td>
   </tr>
  </table>
 
-<table>
-  <tr>
-    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/s.png /></td>
-    <td>
-        This is the Ben Eater schematic made by me.
-         Link to Ben Eater breadboard CKL pulse generator:
-         https://youtu.be/SmQ5K7UQPMM?si=6SvCCjpXzhz8pTbt
-    </td widht=40%>
-  </tr>
- </table>
+
+
 
 
 Datasheets:
-- NE555: https://pdf1.alldatasheet.com/datasheet-pdf/view/471200/STMICROELECTRONICS/NE555.html
 - 74LS00 (4x NAND gate): https://pdf1.alldatasheet.com/datasheet-pdf/view/51021/FAIRCHILD/74LS00.html 
+- ...
 
 
 
