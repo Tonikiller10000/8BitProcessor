@@ -1,8 +1,6 @@
 # 8Bit Computer
 
 
-
-### Description:
 This is a series of modules(3 at the moment) witch make an functional 8 bit processor for educational purposes: 
 - [ALU](https://github.com/Tonikiller10000/8BitProcessor/tree/main/Processor_ALU_V1.0)
 - [Display Register](https://github.com/Tonikiller10000/8BitProcessor/tree/main/DisplayRegister)
