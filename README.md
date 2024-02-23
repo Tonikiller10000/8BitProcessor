@@ -10,7 +10,7 @@ Modules:
 - [Display Register](https://github.com/Tonikiller10000/8BitProcessor/tree/main/DisplayRegister)
 - [CLK Pulse Generator](https://github.com/Tonikiller10000/8BitProcessor/tree/main/ClkPulseGenerator)
 
-> [!TIP]
+> [!NOTE]
 > By clicking on a modules link, you can read it\`s speciffic documentation.
 
 <table>
@@ -20,9 +20,9 @@ Modules:
     <td>CLK Pulse Generator</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(6).png" height = 300 width= 300 ></td>
-    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/pic4.png/"></td>
-    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/p2.jpg/"></td>
+    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(6).png" width= 600 ></td>
+    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/pic4.png/" ></td>
+    <td><img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/p2.jpg/" width= 600 ></td>
   </tr>
  </table>
 
