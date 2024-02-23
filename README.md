@@ -9,7 +9,7 @@ This is a series of modules(3 at the moment) witch make an functional 8 bit proc
 - [CLK Pulse Generator](https://github.com/Tonikiller10000/8BitProcessor/tree/main/ClkPulseGenerator)
 
 > [!TIP]
-> By clicking on a modules link, you can read it\`s speciffic documentation.
+> By clicking on a module link, you can read it\`s speciffic documentation.
 
 <table>
   <tr>
