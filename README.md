@@ -10,8 +10,16 @@ Modules:
 - [Display Register](https://github.com/Tonikiller10000/8BitProcessor/tree/main/DisplayRegister)
 - [CLK Pulse Generator](https://github.com/Tonikiller10000/8BitProcessor/tree/main/ClkPulseGenerator)
 
+> [!IMPORTANT]
+> By clicking on the modules linmks, You can read the speciffic module documentation.
 
 
+ALU: 
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/Processor_ALU_V1.0/ALU-Pictures/ALU_Picture%20(6).png"/>
 
+Display Register:
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/pic4.png/"/>
 
+CLK Pulse Generator:
+<img src="https://github.com/Tonikiller10000/8BitProcessor/blob/main/ClkPulseGenerator/ComputerClk_Pictures/p2.jpg/"/>
 
