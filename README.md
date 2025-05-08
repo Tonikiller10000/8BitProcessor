@@ -22,3 +22,13 @@ This is a series of modules(3 at the moment) witch make an functional 8 bit proc
   </tr>
  </table>
 
+
+
+Links:
+BenEater YouTube: https://www.youtube.com/beneater 
+BenEater WebSite: https://eater.net/8bit   
+GitHub: https://github.com/Tonikiller10000/8BitProcessor 
+JLC: https://jlcpcb.com/ 
+
+Photo:....
+<img src="https://eater.net/schematics/high-level.png" >

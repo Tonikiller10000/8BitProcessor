@@ -13,7 +13,7 @@ This board generates 0-5V square wave CLK pulses for my 8Bit processor/computer 
         - VCC - 5V input
         - GND - 0V input
         - GND - 0V input (optional)
-        - HLT - input, connect to 5V to stop sending CLK pulses, and to 0V for normal operration
+        - HLT - input, connect to 5V to stop sending CLK pulses, and to <b>0V for normal operration</b>
         - CLK - CLK pulse generator output
         - CLK - inverted CLK pulse generator output   //clk bar</td>
   </tr>
@@ -41,6 +41,12 @@ This board generates 0-5V square wave CLK pulses for my 8Bit processor/computer 
     </td widht=40%>
   </tr>
  </table>
+
+### Results:
+The potentiometer has to varry the clk speed from 1,2Hz to few KHz witch need it and the capacitors values to be changed. (need further testing)
+
+
+
 
 
 Datasheets:
